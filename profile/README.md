@@ -1,5 +1,6 @@
 ![Aelysium Wordmark Image](https://github.com/Aelysium-Group/.github/blob/main/profile/wordmark-material-background.jpg?raw=true)
-# Aelysium Group
-> Welcome to Aelysium, the Minecraft front for development and professional work done by Nathan (SIVIN)!
+### Welcome to Aelysium!
+### Join our [Discord](https://join.aelysium.group/)
 
-Join our community on [Discord](http://join.aelysium.group/)
+# Plugins
+[![RustyConnector Icon](https://github.com/Aelysium-Group/.github/blob/main/images/rustyconnector-button.png?raw=true)](https://github.com/Aelysium-Group/rusty-connector)
