@@ -3,3 +3,4 @@
 
 # Plugins
 [![RustyConnector Icon](https://github.com/Aelysium-Group/.github/blob/main/images/rustyconnector-button.png?raw=true)](https://github.com/Aelysium-Group/rusty-connector)
+[![Particulate Icon](https://github.com/Aelysium-Group/.github/blob/main/images/particulate-button.png?raw=true)](https://github.com/Aelysium-Group/particulate)
